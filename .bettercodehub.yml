@@ -1,0 +1,6 @@
+exclude: 
+- /bin/.*
+- /lib/.*
+- /samples/.*
+- /tools/.*
+- /xdocs/.*
