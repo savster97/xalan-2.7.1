@@ -1,6 +1,8 @@
 exclude: 
-- /bin/.*
-- /lib/.*
-- /samples/.*
-- /tools/.*
-- /xdocs/.*
+  - /bin/.*
+  - /lib/.*
+  - /samples/.*
+  - /tools/.*
+  - /xdocs/.*
+include:
+  - /src/.*
